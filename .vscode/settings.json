@@ -3,5 +3,10 @@
     "editor.defaultFormatter": "ms-python.autopep8"
   },
   "python.formatting.provider": "none",
-  "python.autoComplete.extraPaths": ["./Python"],
+  "python.autoComplete.extraPaths": [
+    "./Python"
+  ],
+  "python.analysis.extraPaths": [
+    "./Python"
+  ],
 }
